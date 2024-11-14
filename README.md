@@ -1,5 +1,6 @@
-# azure-service-operator-resources
-Repo to test minimum configuration for the CRs managed by ASO
+# Cloud Providers Operators Resources
+
+Repo to test minimum configuration for the CRs managed by Public Cloud Providers Operators like Azure Service Operator (ASO)
 
 ## ASO Installation
 
